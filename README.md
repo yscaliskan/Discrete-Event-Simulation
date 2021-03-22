@@ -1,7 +1,7 @@
 # Discrete-Event-Simulation
 
-Description and details can be found in Project2.pdf
-Discrete event simulation of an airport to test which of the four characteristics given leads to less waiting times and less missed flights.
+Description and details can be found in Project2.pdf.
+Discrete event simulation of an airport to test which of the four characteristics leads to less waiting times and less missed flights.
 
 ## How to compile
 In a terminal, call commands:
